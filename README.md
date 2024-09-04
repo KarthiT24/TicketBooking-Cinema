@@ -1,6 +1,5 @@
 # TicketBooking-Cinema
 
-# Ticket Booking System
 
 ## Overview
 
@@ -92,7 +91,7 @@ The database consists of the following tables:
 
 1. **Clone the Repository**:
    ```
-   git clone <repository_url>
+   git clone https://github.com/KarthiT24/TicketBooking-Cinema.git
    cd ticket-booking-system
    ```
 
